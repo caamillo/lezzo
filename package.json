@@ -1,0 +1,30 @@
+{
+  "name": "lezzo",
+  "version": "1.0.0",
+  "description": "Useless Web Server to manage some Home APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caamillo/lezzo.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "javascript",
+    "js"
+  ],
+  "author": "Matteo Camillo Ludovico",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caamillo/lezzo/issues"
+  },
+  "homepage": "https://github.com/caamillo/lezzo#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0"
+  }
+}
