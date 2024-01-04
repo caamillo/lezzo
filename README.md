@@ -1,1 +1,1 @@
-# Lezzo API
+# Lezzo APIs
